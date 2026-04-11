@@ -1,0 +1,27 @@
+# Data files
+*.csv
+*.db
+*.parquet
+*.pkl
+
+# Images / plots
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+.env
+
+.DS_Store
+
+
+.aider.chat.history.md
+.aider.input.history
+.aider*
+
+*.py
