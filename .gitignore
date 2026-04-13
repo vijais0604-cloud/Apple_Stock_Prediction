@@ -24,4 +24,9 @@ __pycache__/
 .aider.input.history
 .aider*
 
-*.py
+algo.py
+
+*.h5
+logs/
+.vscode/
+
