@@ -26,3 +26,7 @@ __pycache__/
 
 algo.py
 *.vscode
+
+*.h5
+
+logs/
