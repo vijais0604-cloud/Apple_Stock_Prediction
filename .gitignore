@@ -25,8 +25,8 @@ __pycache__/
 .aider*
 
 algo.py
+*.vscode
 
 *.h5
-logs/
-.vscode/
 
+logs/
