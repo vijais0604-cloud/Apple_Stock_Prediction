@@ -97,6 +97,8 @@ pip install -r requirements.txt
 
 ## 2. Run pipeline manually
 
+python pipeline.py
+
 ---
 
 ## 3. Check outputs
